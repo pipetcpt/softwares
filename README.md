@@ -2,12 +2,9 @@
 
 PK/PK 및 PBPK 모델링을 위한 소프트웨어
 
-* physPK
-    * https://www.physpk.com/
+* [physPK](https://www.physpk.com/)
     * [소개 PDF](https://drive.google.com/file/d/1gScSIMraTZvYEqejLLKB4VGpxMNJ1MAD/view)
-* mrgsolve
+* [mrgsolve](https://mrgsolve.github.io/)
     * R 기반
-    * https://mrgsolve.github.io/
-* nlmixr
+* [nlmixr](https://nlmixrdevelopment.github.io/nlmixr/)
     * R 기반 
-    * https://nlmixrdevelopment.github.io/nlmixr/ 
